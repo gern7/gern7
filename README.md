@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gern7/gern7/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/gern7/gern7/blob/output/github-snake-dark.svg)
 
 ###
